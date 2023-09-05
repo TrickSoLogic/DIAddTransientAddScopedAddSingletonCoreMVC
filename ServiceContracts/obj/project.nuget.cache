@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "env+mDPZRDB6VxcsUP3CdqMrmMR73AU+ZzEtjvQrRy6p/CkGCuBNoGS0Sne+hiDlgvNyzwqSXqjOzT5ty4qu7Q==",
+  "success": true,
+  "projectFilePath": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\11. Dependency Injection\\09. AddTransient(), AddScoped(), AddSingleton()\\ServiceContracts\\ServiceContracts.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}

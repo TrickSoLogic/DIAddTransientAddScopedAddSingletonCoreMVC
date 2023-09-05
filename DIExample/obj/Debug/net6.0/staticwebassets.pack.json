@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\11. Dependency Injection\\09. AddTransient(), AddScoped(), AddSingleton()\\DIExample\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DIAddTransientAddScopedAddSingletonCoreMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DIAddTransientAddScopedAddSingletonCoreMVC.props",
+      "PackagePath": "build\\DIAddTransientAddScopedAddSingletonCoreMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DIAddTransientAddScopedAddSingletonCoreMVC.props",
+      "PackagePath": "buildMultiTargeting\\DIAddTransientAddScopedAddSingletonCoreMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DIAddTransientAddScopedAddSingletonCoreMVC.props",
+      "PackagePath": "buildTransitive\\DIAddTransientAddScopedAddSingletonCoreMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

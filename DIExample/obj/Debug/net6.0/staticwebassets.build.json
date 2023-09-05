@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "4uhwTQkyzaEEQ2lTlnv1YmQdF1tS+3OyFBTirQY0btE=",
+  "Source": "DIAddTransientAddScopedAddSingletonCoreMVC",
+  "BasePath": "_content/DIAddTransientAddScopedAddSingletonCoreMVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DIAddTransientAddScopedAddSingletonCoreMVC\\wwwroot",
+      "Source": "DIAddTransientAddScopedAddSingletonCoreMVC",
+      "ContentRoot": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\11. Dependency Injection\\09. AddTransient(), AddScoped(), AddSingleton()\\DIExample\\wwwroot\\",
+      "BasePath": "_content/DIAddTransientAddScopedAddSingletonCoreMVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\11. Dependency Injection\\09. AddTransient(), AddScoped(), AddSingleton()\\DIExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "DIAddTransientAddScopedAddSingletonCoreMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\11. Dependency Injection\\09. AddTransient(), AddScoped(), AddSingleton()\\DIExample\\wwwroot\\",
+      "BasePath": "_content/DIAddTransientAddScopedAddSingletonCoreMVC",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
